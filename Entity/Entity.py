@@ -6,4 +6,3 @@ class Entity:
 		self.x = x
 		self.y = y
 
-
